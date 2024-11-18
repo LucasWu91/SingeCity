@@ -37,13 +37,3 @@ nom_joueur = input("Quel est ton nom, aventurier ? ")
 joueur = Personnage(nom=nom_joueur)
 
 # Boucle principale du jeu
-while True:
-    print("\nOù veux-tu aller ?")
-    print("Nord : 'z', Sud : 's', Ouest : 'q', Est : 'd'")
-    choix = input("Choisis une direction : ").lower()
-
-    try:
-        joueur.deplacer(choix)
-        joueur.afficher_position()
-    except ValueError:
-        print("Entrée invalide. Utilise 'z', 's', 'q', ou 'd' pour te déplacer.")
