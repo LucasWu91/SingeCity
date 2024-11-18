@@ -5,3 +5,6 @@ Alex se réveilla, étourdi, allongé sur un sol humide. En ouvrant les yeux, il
 Alors qu'il se redressait, il entendit un rire étrange. En tournant la tête, il vit un groupe de singes rassemblés non loin, leurs regards curieux fixés sur lui. Mais ce n'était pas des singes ordinaires. Ils portaient des vêtements tissés de feuilles et semblaient communiquer entre eux, non pas avec des cris d'animaux, mais avec un langage structuré.
 
 
+bonjour
+
+Lucas Wu
